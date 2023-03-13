@@ -14,25 +14,13 @@
 .menu{
     width: 100%;
     height: 50px;
-    background-color: chartreuse;
+    background-color: rgba(109, 0, 182, 0.452);
     display: flex;
 }
 .tecnologia{
     width: 100px;
     height: 48px;
-    background-color: aliceblue;
-    margin: 2px;
-}
-.ingles{
-    width: 100px;
-    height: 48px;
-    background-color: rgb(145, 183, 255);
-    margin: 2px;
-}
-.matematicas{
-    width: 100px;
-    height: 48px;
-    background-color: cadetblue;
+    background-color: rgb(247, 221, 75);
     margin: 2px;
 }
 .sociales{
@@ -45,6 +33,12 @@
     width: 100px;
     height: 48px;
     background-color: deepskyblue;
+    margin: 2px;
+}
+    .matematicas{
+    width: 100px;
+    height: 48px;
+    background-color: rgb(189, 101, 0);
     margin: 2px;
 }
 .contenedor2{
