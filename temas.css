@@ -59,9 +59,9 @@
     width: 60%;
     height: 1000px;
     background-color: darkcyan;
-    color: aqua;
+    color: black;
+    text-align: center;
     font-size: 30px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .dercha{
     width: 20%;
