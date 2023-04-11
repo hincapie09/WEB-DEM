@@ -1,6 +1,6 @@
 .contenedor{
     width: 100%;
-    height: 2000px;
+    height: 2500px;
     background-color: aqua;
 }
 .encabezado{
@@ -43,28 +43,34 @@
 }
 .contenedor2{
     width: 100%;
-    height: 2000px;
+    height: 2500px;
     background-color: cornflowerblue;
     display: flex;
 }
 .izquierda{
     width: 20%;
-    height: 2000px;
+    height: 2500px;
     background-color: blue;
     color: antiquewhite;
-    text-align: center;
-    font-size: 25px;
+    text-align: justify;
+    font-size: 10px;
 }
 .centro{
     width: 60%;
-    height: 2000px;
+    height: 2500px;
     background-color: darkcyan;
     color: black;
-    text-align: center;
+    text-align: justify;
     font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.titulo{
+    color: black;
+    text-align: center;
+    font-size: 40px;
 }
 .dercha{
     width: 20%;
-    height: 2000px;
+    height: 2500px;
     background-color: darkgoldenrod;
 }
