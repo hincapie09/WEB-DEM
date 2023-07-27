@@ -16,15 +16,6 @@
     background-repeat: no-repeat;
     
     }
-    .fondosociales{
-    
-        background-image: url("coloniasamericanas.jpg");
-        
-        background-repeat: no-repeat;
-        
-        }
-        
-    
     
     .img{
     
@@ -118,3 +109,53 @@
         
         
         }
+
+        .contenido{
+
+            height: 280px;
+            
+            width: 100%;
+            
+            position: absolute;
+            
+            top: 410px;
+            
+             
+            
+            }
+            
+             
+            
+            .imagensociales{
+            
+             
+            
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 200px;
+            
+            width: 260px;
+            
+            margin-left: 10px;
+            
+            margin:  10px;
+            
+            background-image: url("coloniasamericanas2.jpg");
+            
+            }
+            
+            
+            
+            .textosociales{
+            
+            text-align: justify;
+            
+            color: rgb(172, 245, 245);
+            
+            font-size: 50px;
+            
+            
+            
+            }
