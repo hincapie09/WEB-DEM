@@ -159,3 +159,52 @@
             
             
             }
+            .contenido{
+
+                height: 280px;
+                
+                width: 100%;
+                
+                position: absolute;
+                
+                top: 310px;
+                
+                 
+                
+                }
+                
+                 
+                
+                .imagenmate{
+                
+                 
+                
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 200px;
+                
+                width: 260px;
+                
+                margin-left: 10px;
+                
+                margin-right:10px;
+                
+                background-image: url("imagen2.jfif");
+                
+                }
+                
+                
+                
+                .textomate{
+                
+                text-align: justify;
+                
+                color: rgb(183, 245, 112);
+                
+                font-size: 15px;
+                
+                
+                
+                }
