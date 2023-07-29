@@ -154,7 +154,7 @@
             
             color: rgb(172, 245, 245);
             
-            font-size: 50px;
+            font-size: 10px;
             
             
             
@@ -191,7 +191,7 @@
                 
                 margin-right:10px;
                 
-                background-image: url("imagen2.jfif");
+                background-image: url("algebra.jpg");
                 
                 }
                 
@@ -208,3 +208,97 @@
                 
                 
                 }
+                .contenido{
+
+                    height: 280px;
+                    
+                    width: 100%;
+                    
+                    position: absolute;
+                    
+                    top: 310px;
+                    
+                     
+                    
+                    }
+                    
+                     
+                    
+                    .imagenbiologia{
+                    
+                     
+                    
+                    background-repeat: no-repeat;
+                    
+                    float:left;
+                    
+                    height: 200px;
+                    
+                    width: 260px;
+                    
+                    margin-left: 7px;
+                    
+                    margin: right 7px;
+                    
+                    background-image: url("genetica.jpg");
+                    
+                    }
+                    
+                    
+                    
+                    .textobiologia{
+                    
+                    text-align: justify;
+                    
+                    color: rgb(247, 215, 109);
+                    
+                    font-size: 25px;
+                                                            
+                    }
+                    .contenido{
+
+                        height: 280px;
+                        
+                        width: 100%;
+                        
+                        position: absolute;
+                        
+                        top: 310px;
+                        
+                         
+                        
+                        }
+                        
+                         
+                        
+                        .imagenreligion{
+                        
+                         
+                        
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 200px;
+                        
+                        width: 260px;
+                        
+                        margin-left: 7px;
+                        
+                        margin: right 7px;
+                        
+                        background-image: url("Hinduismo");
+                        
+                        }
+                        
+                        
+                        
+                        .textoreligion{
+                        
+                        text-align: justify;
+                        
+                        color: rgb(247, 215, 109);
+                        
+                        font-size: 5px;
+                                                                
+                        }
