@@ -110,6 +110,39 @@
         
         }
 
+        .imagentecno3{
+        
+         
+        
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 200px;
+            
+            width: 260px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("imagen2.jfif");
+            
+            }
+            
+            
+            
+            .textotecno3{
+            
+            text-align: justify;
+            
+            color: azure;
+            
+            font-size: 20px;
+            
+            
+            
+            }
         .contenido{
 
             height: 280px;
@@ -134,9 +167,9 @@
             
             float:left;
             
-            height: 200px;
+            height: 2000px;
             
-            width: 260px;
+            width: 2000px;
             
             margin-left: 10px;
             
@@ -159,6 +192,40 @@
             
             
             }
+
+            .imagensociales3{
+            
+             
+            
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 2000px;
+                
+                width: 2000px;
+                
+                margin-left: 10px;
+                
+                margin:  10px;
+                
+                background-image: url("Captura.PNG");
+                
+                }
+                
+                
+                
+                .textosociales3{
+                
+                text-align: justify;
+                
+                color: rgb(172, 245, 245);
+                
+                font-size: 10px;
+                
+                
+                
+                }
             .contenido{
 
                 height: 280px;
@@ -208,6 +275,40 @@
                 
                 
                 }
+
+                .imagenmate3{
+                
+                 
+                
+                    background-repeat: no-repeat;
+                    
+                    float:left;
+                    
+                    height: 200px;
+                    
+                    width: 260px;
+                    
+                    margin-left: 10px;
+                    
+                    margin-right:10px;
+                    
+                    background-image: url("algebra.jpg");
+                    
+                    }
+                    
+                    
+                    
+                    .textomate3{
+                    
+                    text-align: justify;
+                    
+                    color: rgb(183, 245, 112);
+                    
+                    font-size: 15px;
+                    
+                    
+                    
+                    }
                 .contenido{
 
                     height: 280px;
@@ -255,6 +356,39 @@
                     font-size: 25px;
                                                             
                     }
+
+                    .imagenbiologia3{
+                    
+                     
+                    
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 200px;
+                        
+                        width: 260px;
+                        
+                        margin-left: 7px;
+                        
+                        margin: right 7px;
+                        
+                        background-image: url("genetica.jpg");
+                        
+                        }
+                        
+                        
+                        
+                        .textobiologia3{
+                        
+                        text-align: justify;
+                        
+                        color: rgb(247, 215, 109);
+                        
+                        font-size: 25px;
+                                                                
+                        }
+
                     .contenido{
 
                         height: 280px;
@@ -302,3 +436,35 @@
                         font-size: 5px;
                                                                 
                         }
+
+                        .imagenreligion3{
+                        
+                         
+                        
+                            background-repeat: no-repeat;
+                            
+                            float:left;
+                            
+                            height: 200px;
+                            
+                            width: 260px;
+                            
+                            margin-left: 7px;
+                            
+                            margin: right 7px;
+                            
+                            background-image: url("Hinduismo");
+                            
+                            }
+                            
+                            
+                            
+                            .textoreligion3{
+                            
+                            text-align: justify;
+                            
+                            color: rgb(247, 215, 109);
+                            
+                            font-size: 5px;
+                                                                    
+                            }
