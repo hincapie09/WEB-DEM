@@ -108,35 +108,16 @@
         
         }
 
-        .imagentecno3{
-        
-         
-        
-            background-repeat: no-repeat;
-            
-            float:left;
-            
-            height: 200px;
-            
-            width: 260px;
-            
-            margin-left: 5px;
-            
-            margin-right:5px;
-            
-            background-image: url("imagen2.jfif");
-            
-            }
-            
+              
             
             
             .textotecno3{
             
             text-align: justify;
             
-            color: azure;
+            color: rgb(134, 255, 144);
             
-            font-size: 20px;
+            font-size: 22px;
             
             
             
@@ -165,9 +146,9 @@
             
             float:left;
             
-            height: 1000px;
+            height: 230px;
             
-            width: 1000px;
+            width: 260px;
             
             margin-left: 10px;
             
@@ -199,9 +180,9 @@
                 
                 float:left;
                 
-                height: 2000px;
+                height: 400px;
                 
-                width: 2000px;
+                width: 330px;
                 
                 margin-left: 10px;
                 
@@ -217,9 +198,9 @@
                 
                 text-align: justify;
                 
-                color: rgb(212, 135, 46);
+                color: rgb(255, 99, 99);
                 
-                font-size: 10px;
+                font-size: 20px;
                 
                 
                 
@@ -282,16 +263,18 @@
                     
                     float:left;
                     
-                    height: 200px;
+                    height: 260px;
                     
-                    width: 260px;
+                    width: 380px;
                     
                     margin-left: 10px;
                     
                     margin-right:10px;
                     
-                    background-image: url("algebra.jpg");
+                    background-image: url("dfdc.jpg");
                     
+                    background-image: url("tmcpr.webp");
+
                     }
                     
                     
@@ -300,9 +283,9 @@
                     
                     text-align: justify;
                     
-                    color: rgb(183, 245, 112);
+                    color: rgb(238, 161, 228);
                     
-                    font-size: 15px;
+                    font-size: 17px;
                     
                     
                     
